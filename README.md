@@ -1,90 +1,57 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<br clear="both">
 
-<br/>
+<h1 data-importer="text" align="center">Hi, I'm Ryan</h1>
 
-<!-- Tech Stack -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="55" alt="storybook logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="55" alt="graphql logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="55" alt="go logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=rust" height="55" alt="rust logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="nestjs logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" alt="aws logo" />
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
 </div>
 
-<br/>
+###
 
-<!-- Redes Sociais -->
-<div align="center">
-  <a href="https://linkedin.com/in/ryanhsilva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/ryan-silva-020916303" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/ryanhsilva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TWITTER&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo" />
-  </a>
-  <a href="https://twitch.tv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TWITCH&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitch logo" />
-  </a>
-  <a href="https://dev.to" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DEV.TO&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="devto logo" />
+  <a href="https://discord.com/channels/@ryan29036506" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
-<br/>
+###
 
-<!-- Card de Streak Stats (Tema Escuro / Dracula) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ryanhsilva10-star&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8" height="195" alt="GitHub Streak Stats" />
+<br clear="both">
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ryanhsilva10-star&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br/>
+###
 
-<!-- Troféus -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/trophy-output/trophy.svg" alt="GitHub Profile Trophies" />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-<br/>
-
-<!-- Gráfico do PAC-MAN -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/pacman-output/pacman-contribution-graph.svg">
-    <img alt="PAC-MAN Contribution Graph" src="https://raw.githubusercontent.com/ryanhsilva10-star/ryanhsilva10-star/pacman-output/pacman-contribution-graph-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- Divisor Temático Pac-Man -->
-<p align="center">
-  🟡 &bull; &bull; &bull; &bull; &bull; &bull; &bull; 🍒 &bull; &bull; &bull; &bull; &bull; &bull; &bull; 👻 👻 👻 👻
-</p>
-
-<!-- Tabela de Status do Jogador Arcade -->
-<div align="center">
-
-| 🕹️ **Status do Jogador** | 🎮 **Habilidades & Nível** |
-| :--- | :--- |
-| **Player:** Ryan Silva (`ryanhsilva10-star`) | 🟡 **Classe:** Desenvolvedor Full-Stack |
-| ⚡ **Power-Ups:** TypeScript, Next.js, Go, Rust, AWS | 👾 **Caça aos Fantasmas:** Debugging & Otimização |
-| 🍒 **Missão Atual:** Criando aplicações web modernas de alta performance | 🏆 **High Score:** Código Limpo e Entrega Contínua |
-
-</div>
+###
